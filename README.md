@@ -1,5 +1,5 @@
-## Victor Jarvis
-## CS-340
+# Victor Jarvis
+### CS-340
 ---
 ### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 Writing maintainable, readable, and adaptable code is crucial for the long-term success of a software project. Breaking down code into small, self-contained modules or functions, each with a specific responsibility made the process straightforward and simple. For the CRUD Python module, one thing kept in mind was to ensure that it follows the single responsibility principle, handling only database operations. The CRUD module can be used in future projects that involve database operations without the need to rewrite the same functionality.
